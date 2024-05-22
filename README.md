@@ -22,5 +22,5 @@ d) Decoupling of display and rendering, support GLSurfaceView, SurfaceView, Text
 
 ## 3. Demo - VRDraw
 
-A VR360 panorama rendering algorithm demo.  
+A VR360 panorama rendering algorithm demo  
 
